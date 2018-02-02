@@ -23,7 +23,7 @@ namespace ComicBookGallery.Models
         }
 
         //Series-title-issuenumber.jpg
-        public string ConvertImageFileName
+        public string CoverImageFileName
         {
             get
             {
